@@ -96,9 +96,9 @@ This will:
 ## Model Performance
 
 The DistilBERT classifier achieves:
-- High accuracy on role classification
-   Accuracy: 0.9760
-   ROC-AUC: 0.9997
+- High accuracy on role classification:
+   Accuracy: 0.9760,
+   ROC-AUC: 0.9997,
    PR-AUC: 0.9897
 - Robust confidence scoring
 - Support for multiple job categories
