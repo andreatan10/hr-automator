@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.xlsx
+*.png
+best_model.pth
+venv/
+models/role_classifier/model.safetensors
+models/role_classifier/tokenizer.json
+models/role_classifier/config.json
+models/role_classifier/tokenizer_config.json
+models/role_classifier/label_encoder.pkl
